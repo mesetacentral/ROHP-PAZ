@@ -1,3 +1,5 @@
 ## ROHP-PAZ Data exploration and modelling
 
-### Authors: Ignacio Cobas, Didac Gallego (UAB), 2022
+### Author: Ignacio Cobas (UAB)
+
+ignaciocobas@outlook.com
