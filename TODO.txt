@@ -1,0 +1,4 @@
+use data from +-1 height to train the model
+analyse simplification in regression_prediction()
+
+try out other classificators

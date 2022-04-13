@@ -1,0 +1,5 @@
+13/4/22
+just built a regression model by stacking classificators
+thought the precision would be higher because scores were higher than 80% in most cases, it may be due to the simplification made when adding up the predictions or maybe it needs more data, from higher and lower heights
+
+when comparing val data to the regressions output, the shapes might be similar but the values rarely are
